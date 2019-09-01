@@ -74,3 +74,5 @@ with Timer() as time_this:
 
 
     print(f())
+
+input("Press enter to close ")
